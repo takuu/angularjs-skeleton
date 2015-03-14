@@ -1,4 +1,4 @@
-# NgBabelJspm
+# Angular Skeleton
 Building with AngularJS, JSPM, Babel, Gulp with ES6
 
 Open command prompt from project path
